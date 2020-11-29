@@ -97,6 +97,8 @@ SITES = {
     'smgbb'            : 'bilibili',
     'sohu'             : 'sohu',
     'soundcloud'       : 'soundcloud',
+    'streamable'       : 'streamable',
+    'streamye'         : 'streamye',
     'ted'              : 'ted',
     'theplatform'      : 'theplatform',
     'tiktok'           : 'tiktok',
